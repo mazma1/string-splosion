@@ -1,6 +1,6 @@
 'use strict';
 const jasmine = require('jasmine');
-const words = require('../app/index.js').StringSplosion;
+const StringSplosion = require('../app/index.js').StringSplosion;
 
 describe(" String splosion", function(){
 
