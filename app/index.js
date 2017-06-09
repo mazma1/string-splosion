@@ -6,7 +6,7 @@ class StringSplosion {
   } 
 
   manipulate()  {
-    let sploded = " ";
+    let sploded = "";
     let str1 = this.splosionStr;
   
     for (let i = 0; i<=str1.length; i++) {
